@@ -10,7 +10,6 @@ This project is an Inventory Management System implemented using Jupyter Noteboo
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
